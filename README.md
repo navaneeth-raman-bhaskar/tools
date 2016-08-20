@@ -47,7 +47,7 @@ You may use "Pehape libraries" under the terms of either the
 or the GNU General Public License (GPL) version 
 [2](http://www.gnu.org/licenses/gpl-2.0.html)
 or
-[3]((http://www.gnu.org/licenses/gpl-3.0.html)).
+[3](http://www.gnu.org/licenses/gpl-3.0.html).
 
 -----
 
