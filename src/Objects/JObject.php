@@ -106,6 +106,10 @@ class JObject
 
             return sprintf("'%s'", $value);
         }
+        
+        if (is_bool($value) === TRUE) {
+            return ($value === TRUE) ? 'true' : 'false';
+        }
 
         return $value;
     }
