@@ -3,7 +3,11 @@ Documentation
 
 Tools, scripts and assets for Pehape libraries.
 
-1. MD file generator
+1. Coding standards
+------------
+Prefered coding standards for all "Pehape libraries" are defined in file **assets/coding-standards/standards.xml**.
+
+2. MD file generator
 ------------
 Generates *.md files from predefined templates.
 
@@ -21,7 +25,7 @@ $ php bin/genmd.php assets/licenses/bsdgpl-template.md license.md
 
 All parameters needed by predefined templates are provides by interactive console mode.
 
-2. JavaScript Object (JObject)
+3. JavaScript Object (JObject)
 ------------
 Converts PHP class to JavaScript language. It helps you to dynamically configure/change the JavaScript objects. 
 
