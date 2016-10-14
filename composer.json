@@ -21,7 +21,10 @@
     "autoload": {
         "psr-4": {
             "Pehape\\Tools\\": "src"
-        }
+        },
+        "classmap": [
+            "src/Exceptions/exceptions.php"
+        ]
     },
     "scripts": {
         "syntax": "vendor\\bin\\phpcs --standard=assets/coding-standards/standards.xml --colors --encoding=utf-8 -sp src/",
