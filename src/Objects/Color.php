@@ -5,7 +5,7 @@
  * Copyright (c) 2016 Tomas Rathouz <trathouz at gmail.com>
  */
 
-namespace Pehape\Tools\Utils;
+namespace Pehape\Tools\Objects;
 
 /**
  * Color class represents the color.

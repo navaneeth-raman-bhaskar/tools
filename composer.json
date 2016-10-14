@@ -19,6 +19,10 @@
         "php": ">=5.4.0",
         "symfony/console": "^3.1"
     },
+    "require-dev": {
+        "codeception/codeception": "2.1.*",
+        "squizlabs/php_codesniffer": "^2.6"
+    },
     "autoload": {
         "psr-4": {
             "Pehape\\Tools\\": "src"
@@ -28,10 +32,8 @@
         ]
     },
     "scripts": {
+        "test": "vendor\\bin\\codecept run --env local",
         "syntax": "vendor\\bin\\phpcs --standard=assets/coding-standards/standards.xml --colors --encoding=utf-8 -sp src/",
         "syntax-fix": "vendor\\bin\\phpcbf --standard=assets/coding-standards/standards.xml src/"
-    },
-    "require-dev": {
-        "squizlabs/php_codesniffer": "^2.6"
     }
 }
