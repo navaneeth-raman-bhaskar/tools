@@ -1,19 +1,19 @@
 {
-    "name": "pehape/tools",
+    "name": "rathouz/tools",
     "type": "library",
-    "description": "Tools, scripts and assets for Pehape libraries",
-    "keywords": ["tools", "assets", "scripts", "pehape"],
+    "description": "PHP tools, scripts and assets.",
+    "keywords": ["php", "tools", "assets", "scripts", "rathouz"],
     "license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
     "authors": [
         {
             "name": "Tomas Rathouz",
             "email": "trathouz@gmail.com",
-            "homepage": "http://pehape.cz"
+            "homepage": "http://rathouz.cz"
         }
     ],
     "support": {
         "email": "trathouz@gmail.com",
-        "issues": "https://github.com/pehape/tools/issues/"
+        "issues": "https://github.com/rathouz/tools/issues/"
     },
     "require": {
         "php": ">=5.4.0",
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pehape\\Tools\\": "src"
+            "Rathouz\\Tools\\": "src"
         },
         "classmap": [
             "src/Exceptions/exceptions.php"

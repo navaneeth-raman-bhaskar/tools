@@ -1,13 +1,13 @@
 <?php
 
 /**
- * This file is part of the Pehape libraries (http://pehape.cz)
+ * This file is part of the Rathouz libraries (http://rathouz.cz)
  * Copyright (c) 2016 Tomas Rathouz <trathouz at gmail.com>
  */
 
-namespace Pehape\Tools\Objects;
+namespace Rathouz\Tools\Objects;
 
-use Pehape\Tools\Exceptions;
+use Rathouz\Tools\Exceptions;
 
 
 /**

@@ -1,11 +1,11 @@
 Documentation
 ======
 
-Tools, scripts and assets for Pehape libraries.
+PHP tools, scripts and assets.
 
 1. Coding standards
 ------------
-Prefered coding standards for all "Pehape libraries" are defined in file **assets/coding-standards/standards.xml**.
+Prefered coding standards for all "Rathouz libraries" are defined in file **assets/coding-standards/standards.xml**.
 
 2. MD file generator
 ------------
@@ -31,7 +31,7 @@ Converts PHP class to JavaScript language. It helps you to dynamically configure
 
 ```php
 
-$employee = new Pehape\Tools\Objects\JObject('employee');
+$employee = new Rathouz\Tools\Objects\JObject('employee');
 
 $employee->name = 'John';
 //employee.name = 'John';

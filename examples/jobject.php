@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-$employee = new Pehape\Tools\Objects\JObject('employee');
+$employee = new Rathouz\Tools\Objects\JObject('employee');
 
 $employee->name = 'John';
 //employee.name = 'John';

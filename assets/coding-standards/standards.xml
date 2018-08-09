@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="pehape">
-    <description>The "Pehape" coding standard.</description>
+<ruleset name="rathouz">
+    <description>The "Rathouz" coding standard.</description>
     
     <!-- Use 4 spaces for indent. -->
     <arg name="tab-width" value="4" />

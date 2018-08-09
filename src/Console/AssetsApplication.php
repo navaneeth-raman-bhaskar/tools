@@ -1,11 +1,11 @@
 <?php
 
 /**
- * This file is part of the Pehape libraries (http://pehape.cz)
+ * This file is part of the Rathouz libraries (http://rathouz.cz)
  * Copyright (c) 2016 Tomas Rathouz <trathouz at gmail.com>
  */
 
-namespace Pehape\Tools\Console;
+namespace Rathouz\Tools\Console;
 
 use Symfony\Component\Console\Application;
 use Symfony\Component\Console\Input;

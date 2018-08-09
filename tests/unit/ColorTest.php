@@ -1,10 +1,10 @@
 <?php
 
-use Pehape\Tools\Objects\Color;
+use Rathouz\Tools\Objects\Color;
 
 
 /**
- * Unit test for \Pehape\Tools\Objects\Color.
+ * Unit test for \Rathouz\Tools\Objects\Color.
  *
  * @author Tomas Rathouz <trathouz AT gmail.com>
  */
