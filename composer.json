@@ -1,6 +1,6 @@
 {
     "name": "navaneeth-raman-bhaskar/tools",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "type": "library",
     "description": "PHP tools, scripts and assets.",
     "keywords": ["php", "tools", "assets", "scripts", "rathouz"],
@@ -18,7 +18,7 @@
     },
     "require": {
         "php": ">=7.1",
-        "symfony/console": "^v4.0.0"
+        "symfony/console": "^v5.0.0"
     },
     "require-dev": {
         "codeception/codeception": "^4.1.6",
